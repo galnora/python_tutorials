@@ -15,3 +15,4 @@ z += "eggs"
 print(z)
 
 print(num:=int(input("mondj egy számot")))
+
